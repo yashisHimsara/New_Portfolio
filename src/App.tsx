@@ -184,7 +184,7 @@ function App() {
         </div>
       </section>
 
-      {/* Assignments Section */}
+{/*       {/* Assignments Section */}
       <section id="assignments" className="py-20">
         <div className="container mx-auto px-6">
           <h2 className="text-4xl font-bold mb-12 text-center">My Assignments</h2>
@@ -214,7 +214,7 @@ function App() {
             ))}
           </div>
         </div>
-      </section>
+      </section> */}
 
       {/* Contact Section */}
       <section id="contact" className="py-20 bg-black/20">
